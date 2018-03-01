@@ -1,0 +1,6 @@
+gene1	accession1
+gene2	accession2
+gene3	accession3
+gene4	accession1
+gene5	accession4
+gene6	accession5
