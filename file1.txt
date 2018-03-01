@@ -1,0 +1,9 @@
+gene1 genome1
+gene2	genome1
+gene3	genome1
+gene4	genome2
+gene5	genome2
+gene6	genome2
+gene7	genome3
+gene8	genome3
+gene9	genome4
